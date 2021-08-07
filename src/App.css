@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.navig {
+  background-color: darkslategrey;
+  height: 60px;
+  display: flex;
+  justify-content: flex-end;
+  color: aliceblue;
+
+}
